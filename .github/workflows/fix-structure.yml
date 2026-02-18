@@ -1,0 +1,32 @@
+name: Fix Site Structure
+on:
+  workflow_dispatch:
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Fix folder structure
+        run: |
+          # Remove broken nested structure
+          rm -rf content/ontent content/static content/themes
+          
+          # Create proper folders
+          mkdir -p content/posts
+          mkdir -p static/admin
+          mkdir -p themes/middleway/layouts/_default
+          mkdir -p themes/middleway/layouts/partials
+          mkdir -p themes/middleway/static/css
+          
+          # Keep the good files we have
+          # (about.md is already in the right place)
+          
+      - name: Commit changes
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add -A
+          git commit -m "Fix folder structure" || echo "No changes needed"
+          git push
