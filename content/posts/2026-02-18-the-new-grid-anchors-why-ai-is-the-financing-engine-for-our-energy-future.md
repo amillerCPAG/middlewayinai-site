@@ -1,6 +1,6 @@
 ---
 title: "The New Grid Anchors: Why AI is the financing engine for our energy future."
-date: 2026-02-17T20:42:39.629Z
+date: 2026-02-16T20:42:39.629Z
 description: 'To maintain your "Middle Lane" authority when the comments start
   rolling in, you’ll need to navigate two primary types of pushback: the
   Economic Populist (who fears being exploited) and the Structural Skeptic (who
