@@ -1,0 +1,22 @@
+baseURL = "https://middlewayinai.com/"
+languageCode = "en-us"
+title = "The Middle Way in AI"
+theme = "middleway"
+
+[params]
+  description = "Navigating the Shift from Software Workflows to Systemic Utility"
+  author = "Andrew Miller"
+  twitter = "middlewayinAI"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+[outputs]
+  home = ["HTML", "RSS"]
