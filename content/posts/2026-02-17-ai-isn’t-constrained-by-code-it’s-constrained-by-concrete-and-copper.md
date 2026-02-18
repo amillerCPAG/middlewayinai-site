@@ -1,6 +1,6 @@
 ---
 title: AI isn’t constrained by code. It’s constrained by concrete and copper.
-date: 2026-02-17T20:43:33.842Z
+date: date: 2026-02-17T10:00:00-05:00Z
 description: Between 2022 and 2026, global data center energy consumption is
   projected to more than double—hitting 1.1 petawatt-hours. We are witnessing
   the largest capital expenditure cycle in human history, but the bottleneck
