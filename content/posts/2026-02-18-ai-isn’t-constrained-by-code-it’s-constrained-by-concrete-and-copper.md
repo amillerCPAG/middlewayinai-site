@@ -1,7 +1,10 @@
 ---
-title: "AI isn't constrained by code. It's constrained by concrete and copper."
+title: AI Isn't Constrained by Code. It's Constrained by Concrete and Copper.
 date: 2026-02-18T10:00:00-05:00
-description: "Between 2022 and 2026, global data center energy consumption is projected to more than double—hitting 1.1 petawatt-hours. We are witnessing the largest capital expenditure cycle in human history, but the bottleneck isn't GPUs anymore. It's the ability to plug them in."
+description: Between 2022 and 2026, global data center energy consumption is
+  projected to more than double—hitting 1.1 petawatt-hours. We are witnessing
+  the largest capital expenditure cycle in human history, but the bottleneck
+  isn't GPUs anymore. It's the ability to plug them in.
 ---
 We used to say data was the new oil. We were wrong. **Capacity is the new oil.**
 
