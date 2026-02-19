@@ -1,6 +1,6 @@
 ---
 title: "The Federal Preemption Pivot: Ending the State AI Patchwork"
-date: 2026-02-20T20:31:43.470Z
+date: 2026-02-19T20:31:43.470Z
 description: The March 11 FTC deadline will trigger a massive SaaS disruption in
   2026 by preempting state AI laws. Is your compliance roadmap about to become
   technical debt?
