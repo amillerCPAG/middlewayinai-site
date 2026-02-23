@@ -1,6 +1,7 @@
 ---
 title: "About The Middle Way in AI"
 description: "Andrew Miller sold Cameyo to Google. Now he writes about what that experience taught him about AI, software, and who wins the re-platforming."
+date: "2026-02-01"
 ---
 
 ## Andrew Miller — Operator. Xoogler. Contrarian.
