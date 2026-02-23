@@ -1,31 +1,66 @@
 ---
 title: "About The Middle Way in AI"
+description: "Andrew Miller sold Cameyo to Google. Now he writes about what that experience taught him about AI, software, and who wins the re-platforming."
 ---
 
-## Beyond the Hype and the Horror: Navigating the Great Re-Platforming
+## Andrew Miller — Operator. Xoogler. Contrarian.
 
-Most people view AI through a binary lens. The Utopians see it as a magic wand for infinite productivity. The Doomers see it as the inevitable collapse of the software economy.
+Andrew Miller is the founder of Crown Point Advisory Group (CPAG) and the author of *The Middle Way in AI*. He built [Cameyo](https://cameyo.com) from an idea into a globally deployed virtual application delivery platform, then sold it to Google. He spent the years that followed inside Google, working with the Google Cloud, Chrome, ChromeOS, and security teams to help the transition of Cameyo's technology into the enterprise ecosystem.
 
-I see it as a **re-platforming event**.
+He has seen what it looks like when a software company becomes infrastructure. He has also seen what it looks like when one does not.
 
-My name is Andrew Miller, and I operate in the Middle Lane in AI blog. My perspective is shaped by a career spent building "Systemic Utility"—the unsexy but essential infrastructure that keeps the digital world turning. After the acquisition of my company, Cameyo, by Google, I realized that the "Frontier Brain" (LLMs) is rapidly becoming a commodity. The real value—the **Billion-Dollar Backend**—now lies in the physical and data hooks that an AI cannot bypass.
+That experience is the foundation of everything written here.
 
-## The Thesis
+---
 
-We are moving away from the era of **Feature SaaS** (tools you use) and into the era of **Systemic Utility** (systems that execute).
+## The Moment That Changed the Lens
 
-If a company's value is tied to a user interface or a "per-seat" license, it is facing a structural collapse. If a company acts as a **High-Fidelity Repository**—a secure, structured foundation that empowers agentic action—it becomes the new infrastructure of the global economy.
+When Google acquired Cameyo, the due diligence process was unlike anything a founder pitch deck prepares you for. Tier-1 acquirers do not buy narratives. They buy systems. They pull apart the unit economics, the architecture, the customer dependency structures, the decision-making infrastructure — and they form a clinical view of whether the asset is worth what the founder believes it is worth.
 
-## The Evaluation OS
+Most founders never get to sit on both sides of that table. Most advisors have not either.
 
-On this blog, I apply a specific rubric to the 2026 tech landscape:
+What I walked away with was not just a successful exit. It was a framework for seeing companies the way institutional buyers see them — not through the lens of potential, but through the lens of physics. Does the math hold? Does the architecture scale without the founder? Does the product own something defensible, or is it a wrapper on someone else's infrastructure?
 
-* **The Stewardship Test:** Does the technology control a "Physical Anchor" (printers, hardware, or regulated data) that an LLM brain cannot bypass?
-* **The Agency Test:** Is the software a "dashboard-first" relic, or is it a seamless database accessible by external Agents?
-* **The Friction Test:** Is the revenue model tethered to human seats (Structural Debt) or to outcomes (The 1-to-4 Rule)?
+I carried that lens into my advisory work at CPAG. And when the AI transition began accelerating in 2023 and 2024, I realized the same clinical framework applied — not just to the companies I was advising, but to the entire software industry.
 
-## The Mission
+---
 
-TheMiddleWayinAI is a resource for builders, investors, and strategists who are tired of the noise. We aren't here to talk about the "science projects" of in-house AI. We are here to identify the "Physical Foundations" that will capture the revenue migrating away from the legacy software layer.
+## Why I Started Writing This
 
-**Stop watching the brain. Start watching the pipes.**
+The AI discourse has a binary problem.
+
+On one side: the Utopians. AI replaces everything. Software is dead. Every company that does not pivot immediately will be disrupted out of existence within 18 months. Buy the hype, sell the incumbents.
+
+On the other side: the Doomers. AI is overhyped. The infrastructure cannot support the promises. We have seen this before. Nothing fundamental is changing.
+
+Both camps are wrong in ways that are going to be expensive for the people who believe them.
+
+The Utopians are right that something structural is happening. They are wrong about the timeline, the mechanism, and who the winners will be. The Doomers are right to be skeptical of the hype cycle. They are wrong to dismiss the underlying re-platforming as noise.
+
+The middle lane is where the actual analysis lives. We need more people operating there.
+
+I started writing *The Middle Way in AI* because I kept having the same conversation, with founders, with investors, with operators trying to figure out what to do with their software businesses, and the conversation always started with the same problem. They were operating with a framework built for a world that was already changing underneath them.
+
+---
+
+## What the Middle Way Framework Actually Is
+
+The Middle Way is not a compromise position. It is a diagnostic one.
+
+The core thesis: AI is a re-platforming event, not a replacement event. Software companies are not being displaced, they are being forced to convert. The ones that survive will stop selling workflows (UIs) and start functioning as High-Fidelity Repositories (structured, proprietary databases that an external LLM can navigate). The ones that do not make that conversion will commoditize.
+
+Every piece published here applies that framework to a specific company, trend, market event, or piece of conventional wisdom. The analysis is always grounded in the same questions: What is the actual revenue pool? Where is it moving? Who owns the defensible data layer? And is the pricing model built for the world that exists now, or the world that existed in 2020?
+
+---
+
+## Who This Is For
+
+*The Middle Way in AI* is written for operators, investors, founders, and policy makers who want analysis that holds up under pressure. Takes are not optimized for engagement.
+
+If you are looking for someone to confirm that AI will save your company or destroy your industry, this is the wrong publication.
+
+If you are looking for a framework to think more clearly about what is actually happening, you are in the right place.
+
+---
+
+*Andrew Miller is the founder of [Crown Point Advisory Group](https://crownpointadvisorygroup.com), where he advises a select group of B2B founders at the Seed and Series A stages. Inquiries can be directed there.*
