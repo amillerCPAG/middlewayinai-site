@@ -1,12 +1,46 @@
 {{ define "main" }}
-   <article>
-       <div class="post-header">
-           <h1>{{ .Title }}</h1>
-          {{ if ne .Type "page" }}<div class="post-meta">{{ .Date.Format "January 2, 2006" }} • {{ .ReadingTime }} min read</div>{{ end }} 
-       </div>
-       
-       <div class="post-content">
-           {{ .Content }}
-       </div>
-   </article>
-   {{ end }}
+{{ if ne .Type "page" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": {{ .Title | jsonify }},
+  "datePublished": "{{ .Date.Format "2006-01-02" }}",
+  "dateModified": "{{ .Date.Format "2006-01-02" }}",
+  "description": {{ .Description | jsonify }},
+  "url": "{{ .Permalink }}",
+  "author": {
+    "@type": "Person",
+    "name": "Andrew Miller",
+    "url": "https://middlewayinai.com/about/",
+    "jobTitle": "Founder",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "Crown Point Advisory Group",
+      "url": "https://crownpointadvisorygroup.com"
+    },
+    "sameAs": [
+      "https://crownpointadvisorygroup.com",
+      "https://www.linkedin.com/in/andrewmillercameyo/"
+    ]
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "The Middle Way in AI",
+    "url": "https://middlewayinai.com"
+  }
+}
+</script>
+{{ end }}
+<article>
+  <div class="post-header">
+    <h1>{{ .Title }}</h1>
+    {{ if ne .Type "page" }}
+    <div class="post-meta">{{ .Date.Format "January 2, 2006" }} &bull; {{ .ReadingTime }} min read</div>
+    {{ end }}
+  </div>
+  <div class="post-content">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}
