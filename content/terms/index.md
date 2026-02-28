@@ -5,8 +5,6 @@ date: "2026-02-28"
 type: "page"
 ---
 
-## Terms of Service
-
 *Last updated: February 28, 2026*
 
 ### Section 1: Use of This Site
