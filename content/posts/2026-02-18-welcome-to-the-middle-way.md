@@ -1,6 +1,6 @@
 ---
 title: Welcome to The Middle Way in AI
-date: 2026-01-15T15:00:00.000Z
+date: 2026-02-18T15:00:00.000Z
 description: Introducing a new perspective on navigating the shift from software
   workflows to systemic utility.
 ---
