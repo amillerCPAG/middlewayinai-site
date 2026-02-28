@@ -1,6 +1,6 @@
 baseURL = "https://middlewayinai.com/"
 languageCode = "en-us"
-title = "The Middle Way in AI"
+title = "The Middle Way in AI | AI Strategy & Software Analysis"
 theme = "middleway"
 
 [params]
