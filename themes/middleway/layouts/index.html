@@ -1,11 +1,10 @@
 {{ define "main" }}
    <section class="hero">
        <div class="container">
-           <h1>{{ .Site.Title }}</h1>
-           <p class="tagline">{{ .Site.Params.description }}</p>
+           <h1>The Middle Way in AI</h1>
+           <p class="tagline">Navigating the AI Re-Platforming. Cutting Through the Hype.</p>
        </div>
    </section>
-
    <section class="blog-listing">
        {{ range .Site.RegularPages }}
        {{ if eq .Type "posts" }}
