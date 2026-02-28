@@ -1,8 +1,9 @@
 ---
 title: Welcome to The Middle Way in AI
 date: 2026-02-18T15:00:00.000Z
-description: Introducing a new perspective on navigating the shift from software
-  workflows to systemic utility.
+description: Introducing a new perspective on navigating the shift from software workflows to systemic utility.
+type: "posts"
+draft: true
 ---
 
 Welcome to **The Middle Way in AI**.
