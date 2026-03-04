@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "The Middle Way in AI | AI Strategy & Software Analysis"
 theme = "middleway"
 enableRobotsTXT = true
+[permalinks]
+  posts = "/posts/:slug/"
 
 [params]
   description = "Navigating the Shift from Software Workflows to Systemic Utility"
