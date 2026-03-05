@@ -1,0 +1,16 @@
+{{ define "main" }}
+<section class="blog-listing">
+  {{ range .Pages }}
+  <article class="post-card">
+    <div class="post-date">{{ .Date.Format "January 2, 2006" }}</div>
+    <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+    {{ if .Description }}
+    <p class="post-excerpt">{{ .Description }}</p>
+    {{ else }}
+    <p class="post-excerpt">{{ .Summary }}</p>
+    {{ end }}
+    <a href="{{ .Permalink }}" class="read-more">Read More →</a>
+  </article>
+  {{ end }}
+</section>
+{{ end }}
