@@ -1,5 +1,5 @@
 ---
-title: "The Ghost in the Machine: When Logic Becomes a Commodity"
+title: "The Logic Liquidation: Why Your SaaS Moat Just Evaporated"
 slug: logic-commodity-raas
 description: As AI logic costs drop to zero, value shifts to Resolution as a
   Service. Learn why the High-Fidelity Repository is the new backend
