@@ -4,6 +4,7 @@ slug: agi-existential-risk-probability-alignment-mandate
 description: The 25% AGI extinction estimate cannot be evaluated like ordinary
   risk. No retries. No error correction. It is a mandate for institutional-grade
   safety architecture.
+image: /images/gemini_generated_image_p2ncrfp2ncrfp2nc.png
 tags:
   - AGI governance
   - AI alignment
